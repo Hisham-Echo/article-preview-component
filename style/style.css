@@ -58,13 +58,13 @@ main article {
   padding: 35px;
   padding-bottom: 15px;
 }
-main article header p {
+main article header h1 {
   font-weight: 700;
   font-size: 1.25rem;
   color: var(--Very-Dark-Grayish-Blue);
   padding-bottom: 15px;
 }
-main article p {
+main article h2 {
   font-size: 1.09rem;
   font-weight: 300;
   line-height: 1.6;
@@ -186,11 +186,11 @@ main footer .icon:hover img {
   main .txt article {
     padding: 0;
   }
-  main .txt article header p {
+  main .txt article header h1 {
     word-spacing: 2px;
     font-size: 1.4rem;
   }
-  main .txt article p {
+  main .txt article h2 {
     font-size: 1rem;
   }
   main .txt footer {
