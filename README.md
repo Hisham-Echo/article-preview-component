@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution here](https://your-solution-url.com)
-- Live Site URL: [Live site here](https://your-live-site-url.com)
+- Solution URL: [Solution here](https://www.frontendmentor.io/solutions/article-preview-component-EzJYOEqOLr)
+- Live Site URL: [Live site here](https://hisham-echo.github.io/article-preview-component/)
 
 ## My process
 
@@ -42,7 +42,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Hisham-Echo)
+- Frontend Mentor - [Hisham S.](https://www.frontendmentor.io/profile/Hisham-Echo)
 - Youtube - [SUDO_SONiC](https://www.youtube.com/sudosonic101)
 - Linkedin - [Hisham S.](https://www.linkedin.com/in/hisham-saleh-b28315254/)
 
